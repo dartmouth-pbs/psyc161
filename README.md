@@ -112,9 +112,24 @@ packages that you will be learning to use.
 ## Master plan/schedule
 
 
-| Date | Times     | Content | Reading
-|:---- | --------- | ------- | -------
-|04/02 | 2:00-5:00 | Python Language Concepts / Git/GitHub | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python_language.html), [git bootcamp materials](git-bootcamp)
+| Date  | Times     | Content | Reading
+|:----- | --------- | ------- | -------
+|T  4/02| 2:00-5:00 | Python Language Concepts / Git/GitHub | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp)
+|T  4/07| 2:00-5:00 | TBA | TBA
+|T  4/14| 3:30-5:00 | TBA | TBA
+|Th 4/16| 3:30-5:00 | TBA | TBA
+|T  4/21| 3:30-5:00 | TBA | TBA
+|Th 4/23| 3:30-5:00 | TBA | TBA
+|T  4/28| 2:00-5:00 | TBA | TBA
+|Th 4/30| 3:30-5:00 | TBA | TBA
+|T  5/05| 2:00-5:00 | TBA | TBA
+|Th 5/07| 3:30-5:00 | TBA | TBA
+|Th 5/14| 3:30-5:00 | TBA | TBA
+|Th 5/21| 3:30-5:00 | TBA | TBA
+|T  5/26| 3:30-5:00 | TBA | TBA
+|Th 5/28| 3:30-5:00 | TBA | TBA
+|T  6/02| 3:30-5:00 | TBA | TBA
+
 
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
 
