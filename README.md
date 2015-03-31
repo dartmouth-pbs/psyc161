@@ -162,5 +162,18 @@ Students will choose a project of their liking
     - Establishing/improving quality assurance (tests, etc) of an
       existing scientific FOSS project
 
+## Code of conduct
 
+In non-official words: you must not re-use/cut-paste complete
+solutions found online.  You are strongly encouraged to do your best
+to try figuring out the solution yourself.  If you are stuck on some
+technical detail, it is perfectly fine to consult documentation, even
+"ask google", and/or email me for a hint/help.  But if you are fully
+stuck ad researched/found a complete solution online and saw/read it
+(aren't you a fast reader of Python code by now) -- it is not the end
+of the world -- close that page and try recreating that solution
+yourself without looking up there again.
 
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Share-Alike License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work and other related to the course materials under [https://github.com/dartmouth-pbs](https://github.com/dartmouth-pbs) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0 International License</a>. Some portions are materials borrowed from other sources distributed under compatible terms and noted correspondingly.
