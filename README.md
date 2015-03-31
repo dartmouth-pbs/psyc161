@@ -1,11 +1,13 @@
-# Introduction to Programming for Psychologists & Neuroscientists (AKA PSYC161, #34529)
+# Introduction to Programming for Psychologists & Neuroscientists
 
+* **AKA:** PSYC161, call# 34529
 * **Instructor:** Yaroslav Halchenko, [class-psyc161@onerussian.com](mailto:class-psyc161@onerussian.com)
 * **Venue:** Moore Hall 453 (computer lab)
 * **Need help?**
    * [Google it up](http://google.com)
    * **Office Hours:** just [email me](mailto:class-psyc161@onerussian.com) to set time convenient for both of us
    * [Email me](mailto:class-psyc161@onerussian.com)
+
 
 ## Course Objectives
 
@@ -16,17 +18,18 @@ distributed and cloud computing.  That is why it becomes critical for
 new researchers to develop at least basic skills in programming,
 software engineering, code and data management. This course intends to
 provide wide in scope and introductory in depth coverage of many
-important topics in programming,  software engineering and some data
+important topics in programming, software engineering and some data
 structures and algorithms to streamline students current and future
-research projects. It will be practice and interaction oriented in
-its format: lectures will be interleaved within practice hands-on
+research projects. It will be practice and interaction oriented in its
+format: lectures will be interleaved within practice hands-on
 sessions. Although some topics and home exercises will involve using
-established data analysis frameworks, primary accent will be done on
-getting a good grasp of good coding and software developing
-practices. Thus, this course is intended to serve as a prerequisite to
-possible follow-up course(s) which would concentrate on in-depth
-learning of specific neuroimaging (and/or computational neuroscience)
-frameworks (from stimuli delivery to advanced analysis pipelines).
+established data analysis frameworks, primary accent will be made on
+getting a good grasp of good coding and software developing practices:
+collaboration, testing, code review, etc.  Thus, this course is
+intended to serve as a prerequisite to possible follow-up course(s)
+which would concentrate on in-depth learning of specific neuroimaging
+(and/or computational neuroscience) frameworks (from stimuli delivery
+to advanced analysis pipelines).
 
 # Resources
 
@@ -39,16 +42,9 @@ Moreover, with recent developments of stimuli delivery toolboxes
 (e.g., psychtoolbox-3, PsychoPy, OpenSesame) it became possible to
 provide a complete free and open toolbelt for carrying out research in
 this domain.  Therefore, in this course we will use/cover available
-FOSS tools (e.g., bash, git), programming languages (Python) and then
-overview computation environments (Matlab/Octave, R). Those tools are
-available for any major operating system (Linux, OS X, MS Windows) but
-students will be encouraged to use a turnkey platform for neuroscience
--- [NeuroDebian](http://neuro.debian.net) -- where all (but Matlab)
-aforementioned (and thousands of other) tools are conveniently
-available.
-
-TODO: URL to pre-crafted VM
-
+FOSS tools (e.g., bash, [git](http://git-scm.com/)), programming
+languages ([Python](http://python.org)) and then overview computation
+environments (Matlab/Octave, R).
 To establish efficient hands-on sessions and code development in
 Python, we will use and recommend you to use in your research/coding
 practice:
@@ -59,6 +55,22 @@ practice:
 - [PyCharm](https://www.jetbrains.com/pycharm) community edition.
   NeuroDebian (-devel) provides now pycharm-community-sloppy
   package
+
+Python, IPython, Octave, R etc are available for any major operating
+system (Linux, OS X, MS Windows).  But students are encouraged to use
+a turnkey platform for neuroscience --
+[NeuroDebian](http://neuro.debian.net) -- where all (but Matlab)
+aforementioned (and thousands of other) tools are conveniently
+available.  In the class we will use a prepared NeuroDebian VirtualBox
+appliance which has already necessary software pre-installed.  If you
+decide to use identical environment on your home laptop/desktop, just
+
+1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) on
+   your system
+2. Download
+   [appliance used in the class (1.5GB)](http://neuro.debian.net/_files/custom-vm/PSYC-161-nd1.ova)
+3. Import appliance in the VirtualBox, Run it, and provide necessary
+   customizations to your git-config
 
 ## Data
 
@@ -74,24 +86,24 @@ Spring 2015 semester -- Apr 2nd to June 2nd -- so we will have roughly
 1h:30m (3:30pm-5:00pm) classes, which would be a mix of small lectures
 and practice sessions.  Practice sessions would include “pair
 programming” and “code review” sessions.  Homeworks will be submitted
-via Git (further instructions **TODO**).  Students will learn how to and
-will be encouraged to contribute to existing free and open-source
-projects.
+via Git (further instructions **TODO**).  Students will learn how to
+use Git/GitHub and will be encouraged to contribute to existing free
+and open-source projects.
 
 ## Literature
 
 The two main sources for lesson materials are:
 
-**THP**
-    Downey, A. (2012). [Think Python: How to think like a computer
-    scientist. Needham, MA: Green Tea Press](http://greenteapress.com/thinkpython/thinkpython.html)
+- **THP**
+  Downey, A. (2012). [Think Python: How to think like a computer
+  scientist. Needham, MA: Green Tea Press](http://greenteapress.com/thinkpython/thinkpython.html)
 
-**PSL**
-    Haenel, V., Gouillart, E., & Varoquaux, G. (Eds.) (2011). [Python
-    Scientific Lecture Notes](http://scipy-lectures.github.com/)
+- **PSL**
+  Haenel, V., Gouillart, E., & Varoquaux, G. (Eds.) (2011). [Python
+  Scientific Lecture Notes](http://scipy-lectures.github.com/)
 
 Both books are available online (free and open), and you can fetch PDF
-directly using git-annex (`git annex get books/`)
+directly using git-annex (`git annex get books/`).
 
 In addition, we will make use of a number of other online resources,
 including documentation and user manuals for the various libraries and
@@ -100,9 +112,9 @@ packages that you will be learning to use.
 ## Master plan/schedule
 
 
-| Date | Times       | Content | Reading
-|:---- | ----------- | ------- | -------
-|Apr 2 | 2:00-5:00pm | Python Language Concepts / Git/GitHub | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python_language.html), [git bootcamp materials](git-bootcamp)
+| Date | Times     | Content | Reading
+|:---- | --------- | ------- | -------
+|04/02 | 2:00-5:00 | Python Language Concepts / Git/GitHub | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python_language.html), [git bootcamp materials](git-bootcamp)
 
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
 
