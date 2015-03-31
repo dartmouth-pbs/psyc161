@@ -137,8 +137,7 @@ packages that you will be learning to use.
 
 Students will be evaluated on the basis of:
 
-- Lesson exercises (50 pts) / class participation (10 pts)
-
+- Lesson exercises (50 pts) / class participation (10 pts).
   Every week there will be a set of small exercises to be submitted
   for the first class in the upcoming week
 
@@ -157,11 +156,11 @@ Students will choose a project of their liking
 - Possible projects will be suggested and discussed in the class on
   4-5th week and possible domains would be
 
-   - Data structures/algorithms implementation
-   - Stimuli/experiment
-   - Data Analysis
-   - Establishing/improving quality assurance (tests, etc) of an
-     existing scientific FOSS project
+    - Data structures/algorithms implementation
+    - Stimuli/experiment
+    - Data Analysis
+    - Establishing/improving quality assurance (tests, etc) of an
+      existing scientific FOSS project
 
 
 
