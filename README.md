@@ -114,7 +114,7 @@ packages that you will be learning to use.
 
 | Date  | Times     | Content | Reading
 |:----- | --------- | ------- | -------
-|T  4/02| 2:00-5:00 | Python Language Concepts / Git/GitHub | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp)
+|T  4/02| 2:00-5:00 | [Intro](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb)/Python Language Concepts / Git/GitHub | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp)
 |T  4/07| 2:00-5:00 | TBA | TBA
 |T  4/14| 3:30-5:00 | TBA | TBA
 |Th 4/16| 3:30-5:00 | TBA | TBA
