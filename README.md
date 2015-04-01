@@ -137,11 +137,11 @@ packages that you will be learning to use.
 
 Students will be evaluated on the basis of:
 
-- Lesson exercises (50 pts) / class participation (10 pts).
+- Lesson exercises / class participation.
   Every week there will be a set of small exercises to be submitted
   for the first class in the upcoming week
 
-- Final project (40 pts), given 3-4 final weeks to work on.
+- Final project, given 3-4 final weeks to work on.
 
 ## Final project
 
@@ -150,8 +150,12 @@ Students will choose a project of their liking
 - It must be a new development (i.e. not something you did before this
   course), although you can choose to improve upon your prior code
 
+- Ideally should be something **you** or someone would end up re-using
+  later on
+
 - Contributions to existing scientific projects will be strongly
-  encouraged
+  encouraged (benefit from established QA, feedback, distribution
+  channels, etc)
 
 - Possible projects will be suggested and discussed in the class on
   4-5th week and possible domains would be
@@ -160,7 +164,9 @@ Students will choose a project of their liking
     - Stimuli/experiment
     - Data Analysis
     - Establishing/improving quality assurance (tests, etc) of an
-      existing scientific FOSS project
+    existing scientific FOSS project
+
+- Team work is encouraged (but contribution ratio will be assessed)
 
 ## Code of conduct
 
