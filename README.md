@@ -112,9 +112,9 @@ packages that you will be learning to use.
 ## Master plan/schedule
 
 
-| Date  | Times     | Content | Reading
+| Date  | Times     | Lecture | Reading
 |:----- | --------- | ------- | -------
-|T  4/02| 2:00-5:00 | [Intro](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb)/Python Language Concepts / Git/GitHub | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp)
+|T  4/02| 2:00-5:00 | [Intro](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb)/Python Concepts ([Variables,..](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01b-PythonFundamentals-Variables.ipynb),[Functions](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01c-PythonFundamentals-Functions.ipynb),[QA](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01d-PythonFundamentals-Debugging.ipynb)) | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp)
 |T  4/07| 2:00-5:00 | TBA | TBA
 |T  4/14| 3:30-5:00 | TBA | TBA
 |Th 4/16| 3:30-5:00 | TBA | TBA
@@ -180,14 +180,13 @@ stuck ad researched/found a complete solution online and saw/read it
 of the world -- close that page and try recreating that solution
 yourself without looking up there again.
 
-## License/Attribution
+## License/Attributions
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Share-Alike License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work and other related to the course materials under [https://github.com/dartmouth-pbs](https://github.com/dartmouth-pbs) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0 International License</a>.
 
 Some portions are materials borrowed from other sources distributed under
 compatible terms from
 
-- http://github.com/NYCiSchoolCS/think-python
+- [Intro CS at NYC iSchool](http://github.com/NYCiSchoolCS/think-python)
   under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-- http://memory.osu.edu/classes/python/index.html
-
+- [Computational Methods for Psychology and Neuroscience @ OSU](http://memory.osu.edu/classes/python/index.html)
