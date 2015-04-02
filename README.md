@@ -180,6 +180,14 @@ stuck ad researched/found a complete solution online and saw/read it
 of the world -- close that page and try recreating that solution
 yourself without looking up there again.
 
-## License
+## License/Attribution
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Share-Alike License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work and other related to the course materials under [https://github.com/dartmouth-pbs](https://github.com/dartmouth-pbs) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0 International License</a>. Some portions are materials borrowed from other sources distributed under compatible terms and noted correspondingly.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Share-Alike License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work and other related to the course materials under [https://github.com/dartmouth-pbs](https://github.com/dartmouth-pbs) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0 International License</a>.
+
+Some portions are materials borrowed from other sources distributed under
+compatible terms from
+
+- http://github.com/NYCiSchoolCS/think-python
+  under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- http://memory.osu.edu/classes/python/index.html
+
