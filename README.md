@@ -109,7 +109,24 @@ In addition, we will make use of a number of other online resources,
 including documentation and user manuals for the various libraries and
 packages that you will be learning to use.
 
-## Master plan/schedule
+## Master plan
+
+This is a preliminary plan, which can (and probably will) change
+depending on our progress and students' preferences
+
+- **Weeks 1-3**: Get to know the tools (environments, VCS, QA) and Python
+  language fundamentals (from variables to modules and classes)
+
+- **Weeks 4-5**: Fundamentals of the scientific Python core (NumPy, SciPy, matplotlib)
+
+- **Week 6**: Overview of the extended scientific core (pandas, statsmodels, seaborn, PyMVPA)
+
+- **Week 7**: Stimuli delivery with Python (PsychoPy)
+
+- **Weeks 8-9**: Tour into R and Matlab and their offerings
+
+
+## Schedule
 
 
 | Date  | Times     | Lecture | Reading | HW 
