@@ -112,23 +112,23 @@ packages that you will be learning to use.
 ## Master plan/schedule
 
 
-| Date  | Times     | Lecture | Reading
-|:----- | --------- | ------- | -------
-|T  4/02| 2:00-5:00 | [Intro](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb)/Python Concepts ([Variables,..](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01b-PythonFundamentals-Variables.ipynb),[Functions](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01c-PythonFundamentals-Functions.ipynb),[QA](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01d-PythonFundamentals-Debugging.ipynb)) | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp)
-|T  4/07| 2:00-5:00 | TBA | TBA
-|T  4/14| 3:30-5:00 | TBA | TBA
-|Th 4/16| 3:30-5:00 | TBA | TBA
-|T  4/21| 3:30-5:00 | TBA | TBA
-|Th 4/23| 3:30-5:00 | TBA | TBA
-|T  4/28| 2:00-5:00 | TBA | TBA
-|Th 4/30| 3:30-5:00 | TBA | TBA
-|T  5/05| 2:00-5:00 | TBA | TBA
-|Th 5/07| 3:30-5:00 | TBA | TBA
-|Th 5/14| 3:30-5:00 | TBA | TBA
-|Th 5/21| 3:30-5:00 | TBA | TBA
-|T  5/26| 3:30-5:00 | TBA | TBA
-|Th 5/28| 3:30-5:00 | TBA | TBA
-|T  6/02| 3:30-5:00 | TBA | TBA
+| Date  | Times     | Lecture | Reading | HW 
+|:----- | --------- | ------- | ------- | ---
+|T  4/02| 2:00-5:00 | [Intro](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb)/Python Concepts ([Variables,..](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01b-PythonFundamentals-Variables.ipynb),[Functions](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01c-PythonFundamentals-Functions.ipynb),[QA](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01d-PythonFundamentals-Debugging.ipynb)) | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp) | [HW1](https://github.com/dartmouth-pbs/psyc161-hw1)
+|T  4/07| 2:00-5:00 | TBA | TBA | TBA
+|T  4/14| 3:30-5:00 | TBA | TBA	| -
+|Th 4/16| 3:30-5:00 | TBA | TBA	| TBA
+|T  4/21| 3:30-5:00 | TBA | TBA	| -
+|Th 4/23| 3:30-5:00 | TBA | TBA	| TBA
+|T  4/28| 2:00-5:00 | TBA | TBA	| -
+|Th 4/30| 3:30-5:00 | TBA | TBA	| TBA
+|T  5/05| 2:00-5:00 | TBA | TBA	| -
+|Th 5/07| 3:30-5:00 | TBA | TBA	| TBA
+|Th 5/14| 3:30-5:00 | TBA | TBA	| PRJ
+|Th 5/21| 3:30-5:00 | TBA | TBA	| PRJ
+|T  5/26| 3:30-5:00 | TBA | TBA	| PRJ
+|Th 5/28| 3:30-5:00 | TBA | TBA	| PRJ
+|T  6/02| 3:30-5:00 | TBA | TBA	| PRJ
 
 
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
