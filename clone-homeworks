@@ -1,0 +1,39 @@
+#!/usr/bin/env python
+"""A little helper script to checkout our (new) homework repositories
+
+"""
+
+import urllib2
+
+from os.path import exists, join, pardir
+from os import system
+
+
+hw_prefix = "psyc161-hw"
+
+for hw in xrange(1, 100):          # we have only 1 hw, hope for more,
+                                   # try to get until we can't
+    hw_dir = hw_prefix + str(hw)   # name of homework directory
+    hw_path = join(pardir, hw_dir) # full path to homework directory
+    hw_url = "https://github.com/dartmouth-pbs/%s" % hw_dir
+
+    if not exists(hw_path):
+        # Just to verify if URL (i.e. homework) exists
+        try:
+            urllib2.urlopen(hw_url)
+        except urllib2.URLError:
+            print("I: Could not access %s -- there is no more homeworks!"
+                  % hw_url)
+            break # time to quit -- no more homeworks
+
+        # And if we got here -- bad news -- new homework is out!
+        errcode = system('git clone %s %s' % (hw_url, hw_path))
+
+        # Now let's report back in case it was not really successful
+        if errcode != 0:
+            raise RuntimeError("E: Could not fetch %s -- Try again? Complain to Yarik?"
+                               % hw_dir)
+        else:
+            print("I: Successfully checked out %s -- time to code!" % hw_path)
+    else:
+        print("I: Directory %s already exists." % hw_path)
