@@ -156,7 +156,7 @@ depending on our progress and students' preferences
 | Date  | Times     | Lecture | Reading | HW 
 |:----- | --------- | ------- | ------- | ---
 |T  4/02| 2:00-5:00 | [Intro][ls-intro]/Python Concepts ([Variables,..][ls-01b],[Functions][ls-01c],[QA][ls-01d]) | THP(1-12), [PSL(1.2.1-1.2.5)][psl-01], [git bootcamp materials][git-bootcamp] | [HW1](https://github.com/dartmouth-pbs/psyc161-hw1)
-|T  4/07| 2:00-5:00 | TBA | TBA | TBA
+|T  4/07| 2:00-5:00 | Python Concepts (Conditionals, Looping, Containers, Modules) | TBA | TBA
 |T  4/14| 3:30-5:00 | TBA | TBA	| -
 |Th 4/16| 3:30-5:00 | TBA | TBA	| TBA
 |T  4/21| 3:30-5:00 | TBA | TBA	| -
