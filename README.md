@@ -31,6 +31,30 @@ which would concentrate on in-depth learning of specific neuroimaging
 (and/or computational neuroscience) frameworks (from stimuli delivery
 to advanced analysis pipelines).
 
+# HOWTOs
+
+This is a git repository which contains git submodules  to link
+homework repositories
+
+- To **clone** it to your local hard-drive run
+
+        git clone https://github.com/dartmouth-pbs/psyc161
+        cd psyc161
+        git submodule update --init
+
+- To **update** your local clone with all the changes in main
+  repository and all the submodules
+
+        git pull
+        git submodule update --init
+
+**Note**: there is no need to commit the changes in this repository
+  whenever you "progress" your homeworks forward and git will start to
+  report that homework submodules were changed.  This will simplify
+  you contributing back to the class materials in this repository
+  happen you find a typo etc.
+
+
 # Resources
 
 ## Software
@@ -131,7 +155,7 @@ depending on our progress and students' preferences
 
 | Date  | Times     | Lecture | Reading | HW 
 |:----- | --------- | ------- | ------- | ---
-|T  4/02| 2:00-5:00 | [Intro](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb)/Python Concepts ([Variables,..](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01b-PythonFundamentals-Variables.ipynb),[Functions](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01c-PythonFundamentals-Functions.ipynb),[QA](http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01d-PythonFundamentals-Debugging.ipynb)) | THP(1-12), [PSL(1.2.1-1.2.5)](http://scipy-lectures.github.io/intro/language/python*language.html), [git bootcamp materials](git-bootcamp) | [HW1](https://github.com/dartmouth-pbs/psyc161-hw1)
+|T  4/02| 2:00-5:00 | [Intro][ls-intro]/Python Concepts ([Variables,..][ls-01b],[Functions][ls-01c],[QA][ls-01d]) | THP(1-12), [PSL(1.2.1-1.2.5)][psl-01], [git bootcamp materials][git-bootcamp] | [HW1](https://github.com/dartmouth-pbs/psyc161-hw1)
 |T  4/07| 2:00-5:00 | TBA | TBA | TBA
 |T  4/14| 3:30-5:00 | TBA | TBA	| -
 |Th 4/16| 3:30-5:00 | TBA | TBA	| TBA
@@ -149,6 +173,11 @@ depending on our progress and students' preferences
 
 
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
+[ls-intro]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb
+[ls-01b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01b-PythonFundamentals-Variables.ipynb
+[ls-01c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01c-PythonFundamentals-Functions.ipynb
+[ls-01d]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01d-PythonFundamentals-Debugging.ipynb
+[psl-01]: http://scipy-lectures.github.io/intro/language/python_language.html
 
 ## Student Evaluation
 
