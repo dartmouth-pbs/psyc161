@@ -178,9 +178,9 @@ depending on our progress and students' preferences
 | Date  | Times     | Lecture | Reading | HW 
 |:----- | --------- | ------- | ------- | ---
 |T  4/02| 2:00-5:00 | [Intro][ls-intro]/Python Concepts ([Variables,..][ls-01b],[Functions][ls-01c],[QA][ls-01d]) | THP(1-6), [PSL(1.2.1-1.2.5)][psl-01], [git bootcamp materials][git-bootcamp] | [HW1](https://github.com/dartmouth-pbs/psyc161-hw1)
-|T  4/07| 2:00-5:00 | [Rehearsal][ls-02a], Python Concepts ([Conditionals][ls-02b], [Loops][ls-02c], [Lists][ls-02d]) | THP(5-8,10-12), [PSL(1.2.1-1.2.5)][psl-01] | [HW2](https://github.com/dartmouth-pbs/psyc161-hw2)
-|T  4/14| 3:30-5:00 | TBA | TBA	| -
-|Th 4/16| 3:30-5:00 | TBA | TBA	| TBA
+|T  4/07| 2:00-5:00 | [Rehearsal][ls-02a], Python Concepts ([Conditionals][ls-02b], [Loops][ls-02c], [Lists][ls-02d]) | THP(5-8,10), [PSL(1.2.1-1.2.5)][psl-01] | [HW2](https://github.com/dartmouth-pbs/psyc161-hw2)
+|T  4/14| 3:30-5:00 | Python Concepts (Tuples, Dicts)    | THP(11, 12) | -
+|Th 4/16| 3:30-5:00 | Python Concepts (Classes, Modules) | THP(15-18) | TBA
 |T  4/21| 3:30-5:00 | TBA | TBA	| -
 |Th 4/23| 3:30-5:00 | TBA | TBA	| TBA
 |T  4/28| 2:00-5:00 | TBA | TBA	| -
