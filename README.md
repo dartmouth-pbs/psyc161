@@ -180,9 +180,9 @@ depending on our progress and students' preferences
 |T  4/02| 2:00-5:00 | [Intro][ls-intro]/Python Concepts ([Variables,..][ls-01b],[Functions][ls-01c],[QA][ls-01d]) | THP(1-6), [PSL(1.2.1-1.2.5)][psl-01], [git bootcamp materials][git-bootcamp] | [HW1](https://github.com/dartmouth-pbs/psyc161-hw1)
 |T  4/07| 2:00-5:00 | [Rehearsal][ls-02a], Python Concepts ([Conditionals][ls-02b], [Loops][ls-02c], [Lists][ls-02d]) | THP(5-8,10), [PSL(1.2.1-1.2.5)][psl-01] | [HW2](https://github.com/dartmouth-pbs/psyc161-hw2)
 |T  4/14| 3:30-5:00 | [Rehearsal][ls-03a], Python Concepts ([Tuples][ls-03b], [Dicts][ls-03c], [Sets][ls-03d]) | THP(11, 12) | -
-|Th 4/16| 3:30-5:00 | Python Concepts (Generators, Exceptions, Classes, Modules) | THP(15-18) | [HW3](https://github.com/dartmouth-pbs/psyc161-hw3)
-|T  4/21| 3:30-5:00 | TBA | TBA	| -
-|Th 4/23| 3:30-5:00 | TBA | TBA	| TBA
+|Th 4/16| 3:30-5:00 | [Rehearsal][ls-04a], Python Concepts ([Classes][ls-04b], [Modules][ls-04c]) | THP(15-18) | [HW3](https://github.com/dartmouth-pbs/psyc161-hw3)
+|T  4/21| 3:30-5:00 | Python Concepts (Generators, Exceptions, Context Handlers) | TBA	| -
+|Th 4/23| 3:30-5:00 | Numerical Python (Numpy) | TBA	| TBA
 |T  4/28| 2:00-5:00 | TBA | TBA	| -
 |Th 4/30| 3:30-5:00 | TBA | TBA	| TBA
 |T  5/05| 2:00-5:00 | TBA | TBA	| -
@@ -210,6 +210,10 @@ depending on our progress and students' preferences
 [ls-03b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/03b-Python-Fundamentals-Containers-Tuples.ipynb
 [ls-03c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/03c-Python-Fundamentals-Containers-Dicts.ipynb
 [ls-03d]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/03d-Python-Fundamentals-Containers-Sets.ipynb
+
+[ls-04a]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/04a-Rehearsal-and-Troubleshooting.ipynb
+[ls-04b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/04b-Python-Fundamentals-Classes.ipynb
+[ls-04c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/04c-Python-Fundamentals-Modules.ipynb
 
 ## Student Evaluation
 
