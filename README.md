@@ -148,6 +148,9 @@ The two main sources for lesson materials are:
   Haenel, V., Gouillart, E., & Varoquaux, G. (Eds.) (2011). [Python
   Scientific Lecture Notes](http://scipy-lectures.github.com/)
 
+- **PT**
+  [Python tutorial](https://docs.python.org/2/tutorial/)
+
 Both books are available online (free and open), and you can fetch PDF
 directly using git-annex (`git annex get books/`).
 
@@ -181,8 +184,8 @@ depending on our progress and students' preferences
 |T  4/07| 2:00-5:00 | [Rehearsal][ls-02a], Python Concepts ([Conditionals][ls-02b], [Loops][ls-02c], [Lists][ls-02d]) | THP(5-8,10), [PSL(1.2.1-1.2.5)][psl-01] | [HW2](https://github.com/dartmouth-pbs/psyc161-hw2)
 |T  4/14| 3:30-5:00 | [Rehearsal][ls-03a], Python Concepts ([Tuples][ls-03b], [Dicts][ls-03c], [Sets][ls-03d]) | THP(11, 12) | -
 |Th 4/16| 3:30-5:00 | [Rehearsal][ls-04a], Python Concepts ([Classes][ls-04b], [Modules][ls-04c]) | THP(15-18) | [HW3](https://github.com/dartmouth-pbs/psyc161-hw3)
-|T  4/21| 3:30-5:00 | Python Concepts (Generators, Exceptions, Context Handlers) | TBA	| -
-|Th 4/23| 3:30-5:00 | Numerical Python (Numpy) | TBA	| TBA
+|T  4/21| 3:30-5:00 | [Rehearsal][ls-05a], Python Concepts ([Exceptions][ls-05b], [Context Handlers][ls-05c], [Generators][ls-05d]) | THP(14.5), [PSL(1.2.8)](http://scipy-lectures.github.io/intro/language/exceptions.html), PT([8](https://docs.python.org/2/tutorial/errors.html),[9.10](https://docs.python.org/2/tutorial/classes.html#generators))	| -
+|Th 4/23| 3:30-5:00 | Rehearsal, Numerical Python (Numpy) | PSL([1.3.2](http://scipy-lectures.github.io/intro/numpy/array_object.html), [1.3.2](http://scipy-lectures.github.io/intro/numpy/operations.html)), [video][pycon15-numpyloops]	| TBA
 |T  4/28| 2:00-5:00 | TBA | TBA	| -
 |Th 4/30| 3:30-5:00 | TBA | TBA	| TBA
 |T  5/05| 2:00-5:00 | TBA | TBA	| -
@@ -214,6 +217,13 @@ depending on our progress and students' preferences
 [ls-04a]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/04a-Rehearsal-and-Troubleshooting.ipynb
 [ls-04b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/04b-Python-Fundamentals-Classes.ipynb
 [ls-04c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/04c-Python-Fundamentals-Modules.ipynb
+
+[ls-05a]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/05a-Rehearsal-and-Troubleshooting.ipynb
+[ls-05b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/05b-Python-Fundamentals-Exceptions.ipynb
+[ls-05c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/05c-Python-Fundamentals-ContextHandlers.ipynb
+[ls-05d]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/05d-Python-Fundamentals-Generators.ipynb
+
+[pycon15-numpyloops]: https://www.youtube.com/watch?v=EEUXKG97YRw
 
 ## Student Evaluation
 
