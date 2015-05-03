@@ -187,9 +187,9 @@ depending on our progress and students' preferences
 |T  4/21| 3:30-5:00 | [Rehearsal][ls-05a], Python Concepts ([Exceptions][ls-05b], [Context Handlers][ls-05c], [Generators][ls-05d]) | THP(14.5), [PSL(1.2.8)](http://scipy-lectures.github.io/intro/language/exceptions.html), PT([8](https://docs.python.org/2/tutorial/errors.html),[9.10](https://docs.python.org/2/tutorial/classes.html#generators))	| -
 |Th 4/23| 3:30-5:00 | [Rehearsal][ls-06a], [Numerical Python (Numpy)][ls-06b] | PSL([1.3.2](http://scipy-lectures.github.io/intro/numpy/array_object.html), [1.3.2](http://scipy-lectures.github.io/intro/numpy/operations.html)), [video][pycon15-numpyloops]	| -
 |T  4/28| 2:00-5:00 | [Rehearsal][ls-07a], [Numerical Python (Numpy, continued)][ls-07b], [Common data I/O][ls-07c] | PSL([1.3.2](http://scipy-lectures.github.io/intro/numpy/operations.html)) | -
-|Th 4/30| 3:30-5:00 | Visualizing the data (matplotlib [\#1][ls-08b], [\#2][ls-08c]) | [MPL](http://matplotlib.org), [AMPL][anatomy-of-matplotlib]	| TBA
-|T  5/05| 2:00-5:00 | TBA | TBA	| -
-|Th 5/07| 3:30-5:00 | TBA | TBA	| TBA
+|Th 4/30| 3:30-5:00 | Visualizing the data (matplotlib [\#1][ls-08b], [\#2][ls-08c]) | [MPL](http://matplotlib.org), [AMPL][anatomy-of-matplotlib]	| [HW4](https://github.com/dartmouth-pbs/psyc161-hw4)
+|T  5/05| 2:00-5:00 | Hands-on with numpy, scipy, nibabel and matplotlib | TBA	| -
+|Th 5/07| 3:30-5:00 | TBA | TBA	| -
 |Th 5/14| 3:30-5:00 | TBA | TBA	| PRJ
 |Th 5/21| 3:30-5:00 | TBA | TBA	| PRJ
 |T  5/26| 3:30-5:00 | TBA | TBA	| PRJ
