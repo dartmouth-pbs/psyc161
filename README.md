@@ -169,7 +169,7 @@ depending on our progress and students' preferences
 - **Weeks 4-5**: Fundamentals of the scientific Python core (NumPy, SciPy, matplotlib)
 
 - **Week 6**: Overview of the extended scientific core (pandas, statsmodels, seaborn, PyMVPA)
-  
+
 - **Week 7**: Stimuli delivery with Python (PsychoPy)
 
 - **Weeks 8-9**: Tour into R and Matlab and their offerings
@@ -188,7 +188,7 @@ depending on our progress and students' preferences
 |Th 4/23| 3:30-5:00 | [Rehearsal][ls-06a], [Numerical Python (Numpy)][ls-06b] | PSL([1.3.2](http://scipy-lectures.github.io/intro/numpy/array_object.html), [1.3.2](http://scipy-lectures.github.io/intro/numpy/operations.html)), [video][pycon15-numpyloops]	| -
 |T  4/28| 2:00-5:00 | [Rehearsal][ls-07a], [Numerical Python (Numpy, continued)][ls-07b], [Common data I/O][ls-07c] | PSL([1.3.2](http://scipy-lectures.github.io/intro/numpy/operations.html)) | -
 |Th 4/30| 3:30-5:00 | Visualizing the data (matplotlib [\#1][ls-08b], [\#2][ls-08c]) | [MPL](http://matplotlib.org), [AMPL][anatomy-of-matplotlib]	| [HW4](https://github.com/dartmouth-pbs/psyc161-hw4)
-|T  5/05| 2:00-5:00 | Hands-on with numpy, scipy, nibabel and matplotlib | TBA	| -
+|T  5/05| 2:00-5:00 | Hands-on: [Camera Man][ls-09b], [Arteries][ls-09c], [Convolution][ls-09d] | PSL([1.5](http://scipy-lectures.github.io/intro/scipy.html))	| -
 |Th 5/07| 3:30-5:00 | TBA | TBA	| -
 |Th 5/14| 3:30-5:00 | TBA | TBA	| PRJ
 |Th 5/21| 3:30-5:00 | TBA | TBA	| PRJ
@@ -234,6 +234,11 @@ depending on our progress and students' preferences
 
 [ls-08b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/08b-Matplotlib-pyplot.ipynb
 [ls-08c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/08c-Matplotlib-HowtoSpeakMPL.ipynb
+
+[ls-09b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/09b-HandsOn-CameraMan.ipynb
+[ls-09c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/09c-HandsOn-Arteries.ipynb
+[ls-09d]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/09d-HandsOn-Scipy-Convolution.ipynb
+
 
 
 ## Student Evaluation
@@ -295,5 +300,10 @@ compatible terms from
 - [Computational Methods for Psychology and Neuroscience @ OSU](http://memory.osu.edu/classes/python/index.html)
 - [Anatomy of Matplotlib][anatomy-of-matplotlib] by Ben Root
   under the CC Attribution-3.0 Unported license
+- [Practical Neuroimaging](http://github.com/practical-neuroimaging/pna2015)
+  by M.Brett largely copyright Matthew Brett 2015, licensed under the
+  Creative Commons attribution 2.0 generic license (CC-by 2.0): see
+  http://creativecommons.org/licenses/by/2.0/
+
 
 [anatomy-of-matplotlib]: http://github.com/WeatherGod/AnatomyOfMatplotlib
