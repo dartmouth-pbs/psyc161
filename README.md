@@ -256,7 +256,8 @@ Students will be evaluated on the basis of:
 
 ## Final project
 
-Students will choose a project of their liking
+Students have two possibilities: self-proposed or an imposed project.
+For a self-proposed project:
 
 - It must be a new development (i.e. not something you did before this
   course), although you can choose to improve upon your prior code
@@ -264,12 +265,11 @@ Students will choose a project of their liking
 - Ideally should be something **you** or someone would end up re-using
   later on
 
-- Contributions to existing scientific projects will be strongly
+- Contribution to an existing scientific projects is strongly
   encouraged (benefit from established QA, feedback, distribution
   channels, etc)
 
-- Possible projects will be suggested and discussed in the class on
-  4-5th week and possible domains would be
+- Possible domains can be
 
     - Data structures/algorithms implementation
     - Stimuli/experiment
@@ -278,6 +278,17 @@ Students will choose a project of their liking
     existing scientific FOSS project
 
 - Team work is encouraged (but contribution ratio will be assessed)
+
+Possible imposed projects will be listed in the class.  For any of
+those types of projects code must be documented (docstrings, code
+comments), follow style guidelines (flake8 run in .travis.yml), carry
+unit- and possibly doctests, and submitted via GitHub making Travis-CI
+happy.  You are most welcome to use materials from previous homeworks,
+and even review and grab ideas (not cut/pasted code) from code of
+others.  You can either clone blank
+[psyc161-prj](https://github.com/dartmouth-pbs/psyc161-prj) against
+which you would submit your solution in private, or create a new
+public git repository on github.
 
 ## Code of conduct
 
