@@ -191,10 +191,10 @@ depending on our progress and students' preferences
 |T  5/05| 2:00-5:00 | Hands-on: [Camera Man][ls-09b], [Arteries][ls-09c], [Convolution][ls-09d] | PSL([1.5](http://scipy-lectures.github.io/intro/scipy.html))	| -
 |Th 5/07| 3:30-5:00 | Hands-on: [Haxby 2001][ls-10b] | -	| -
 |Th 5/14| 3:30-5:00 | Hands-on: [Slice-timing][ls-11b]| -	| PRJ
-|Th 5/21| 3:30-5:00 | TBA | TBA	| PRJ
-|T  5/26| 3:30-5:00 | TBA | TBA	| PRJ
-|Th 5/28| 3:30-5:00 | TBA | TBA	| PRJ
-|T  6/02| 3:30-5:00 | TBA | TBA	| PRJ
+|Th 5/21| 3:30-5:00 | TBA | TBA	| PRJ/HW5
+|T  5/26| 3:30-5:00 | TBA | TBA	| -
+|Th 5/28| 3:30-5:00 | TBA | TBA	| PRJ/HW6
+|T  6/02| 3:30-5:00 | TBA | TBA	| -
 
 
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
@@ -256,8 +256,12 @@ Students will be evaluated on the basis of:
 
 ## Final project
 
-Students have two possibilities: self-proposed or an imposed project.
-For a self-proposed project:
+Final project will be optional -- students will be welcome to choose
+either to do some final project or do two final homeworks, or both
+(project + homeworks) for "extra credit".
+
+For the final project, students have two possibilities: self-proposed
+or a suggested project.  For a self-proposed project:
 
 - It must be a new development (i.e. not something you did before this
   course), although you can choose to improve upon your prior code
@@ -279,13 +283,13 @@ For a self-proposed project:
 
 - Team work is encouraged (but contribution ratio will be assessed)
 
-Possible imposed projects will be listed in the class.  For any of
-those types of projects code must be documented (docstrings, code
-comments), follow style guidelines (flake8 run in .travis.yml), carry
-unit- and possibly doctests, and submitted via GitHub making Travis-CI
-happy.  You are most welcome to use materials from previous homeworks,
-and even review and grab ideas (not cut/pasted code) from code of
-others.  You can either clone blank
+Suggested projects will be given in the class.  For any of those types
+of projects code must be documented (docstrings, code comments),
+follow style guidelines (flake8 run in .travis.yml), carry unit- and
+possibly doc-tests, and submitted via GitHub making Travis-CI happy.
+You are most welcome to use materials from previous homeworks, and
+even review and grab ideas (not cut/pasted code) from code of others.
+You can either clone blank
 [psyc161-prj](https://github.com/dartmouth-pbs/psyc161-prj) against
 which you would submit your solution in private, or create a new
 public git repository on github.
