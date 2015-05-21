@@ -190,10 +190,10 @@ depending on our progress and students' preferences
 |Th 4/30| 3:30-5:00 | Visualizing the data (matplotlib [\#1][ls-08b], [\#2][ls-08c]) | [MPL](http://matplotlib.org), [AMPL][anatomy-of-matplotlib]	| [HW4](https://github.com/dartmouth-pbs/psyc161-hw4)
 |T  5/05| 2:00-5:00 | Hands-on: [Camera Man][ls-09b], [Arteries][ls-09c], [Convolution][ls-09d] | PSL([1.5](http://scipy-lectures.github.io/intro/scipy.html))	| -
 |Th 5/07| 3:30-5:00 | Hands-on: [Haxby 2001][ls-10b] | -	| -
-|Th 5/14| 3:30-5:00 | Hands-on: [Slice-timing][ls-11b]| -	| PRJ
-|Th 5/21| 3:30-5:00 | TBA | TBA	| PRJ/HW5
-|T  5/26| 3:30-5:00 | TBA | TBA	| -
-|Th 5/28| 3:30-5:00 | TBA | TBA	| PRJ/HW6
+|Th 5/14| 3:30-5:00 | Finishing up [Haxby 2001][ls-10b] | -	| PRJ
+|Th 5/21| 3:30-5:00 | Hands-on: [Slice-timing][ls-11b] | TBA	| -
+|T  5/26| 3:30-5:00 | TBA | TBA	| PRJ/HW5
+|Th 5/28| 3:30-5:00 | TBA | TBA	| -
 |T  6/02| 3:30-5:00 | TBA | TBA	| -
 
 
