@@ -191,8 +191,8 @@ depending on our progress and students' preferences
 |T  5/05| 2:00-5:00 | Hands-on: [Camera Man][ls-09b], [Arteries][ls-09c], [Convolution][ls-09d] | PSL([1.5](http://scipy-lectures.github.io/intro/scipy.html))	| -
 |Th 5/07| 3:30-5:00 | Hands-on: [Haxby 2001][ls-10b] | -	| -
 |Th 5/14| 3:30-5:00 | Finishing up [Haxby 2001][ls-10b] | -	| PRJ
-|Th 5/21| 3:30-5:00 | Hands-on: [Slice-timing][ls-11b] | TBA	| -
-|T  5/26| 3:30-5:00 | TBA | TBA	| PRJ/HW5
+|Th 5/21| 3:30-5:00 | [Debugging][ls-12a], Hands-on: [Slice-timing][ls-11b] | -	| -
+|T  5/26| 3:30-5:00 | PsychoPy | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html)	| PRJ/HW5
 |Th 5/28| 3:30-5:00 | TBA | TBA	| -
 |T  6/02| 3:30-5:00 | TBA | TBA	| -
 
@@ -242,6 +242,7 @@ depending on our progress and students' preferences
 [ls-10b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/10b-HandsOn-Haxby2001.ipynb
 
 [ls-11b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/11b-HandsOn-Interpolations.ipynb
+[ls-12a]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/12a-Logistics.ipynb
 
 
 ## Student Evaluation
