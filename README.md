@@ -192,8 +192,8 @@ depending on our progress and students' preferences
 |Th 5/07| 3:30-5:00 | Hands-on: [Haxby 2001][ls-10b] | -	| -
 |Th 5/14| 3:30-5:00 | Finishing up [Haxby 2001][ls-10b] | -	| PRJ
 |Th 5/21| 3:30-5:00 | [Debugging][ls-12a], Hands-on: [Slice-timing][ls-11b] | -	| -
-|T  5/26| 3:30-5:00 | PsychoPy | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html)	| PRJ/HW5
-|Th 5/28| 3:30-5:00 | TBA | TBA	| -
+|T  5/26| 3:30-5:00 | PsychoPy [Stimuli][ls-13b] | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html)	| -
+|Th 5/28| 3:30-5:00 | PsychoPy Events/Responses | TBA	| PRJ/HW5
 |T  6/02| 3:30-5:00 | TBA | TBA	| -
 
 
@@ -244,6 +244,7 @@ depending on our progress and students' preferences
 [ls-11b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/11b-HandsOn-Interpolations.ipynb
 [ls-12a]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/12a-Logistics.ipynb
 
+[ls-13b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/13b-PsychoPy-Basics.ipynb
 
 ## Student Evaluation
 
