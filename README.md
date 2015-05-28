@@ -166,13 +166,9 @@ depending on our progress and students' preferences
 - **Weeks 1-3**: Get to know the tools (environments, VCS, QA) and Python
   language fundamentals (from variables to modules and classes)
 
-- **Weeks 4-5**: Fundamentals of the scientific Python core (NumPy, SciPy, matplotlib)
+- **Weeks 4-7**: Fundamentals of the scientific Python core (NumPy, SciPy, matplotlib) with applications to neuroimaging
 
-- **Week 6**: Overview of the extended scientific core (pandas, statsmodels, seaborn, PyMVPA)
-
-- **Week 7**: Stimuli delivery with Python (PsychoPy)
-
-- **Weeks 8-9**: Tour into R and Matlab and their offerings
+- **Week 8-9**: Stimuli delivery with Python (PsychoPy)
 
 
 ## Schedule
@@ -262,9 +258,8 @@ Students will be evaluated on the basis of:
 
 ## Final project
 
-Final project will be optional -- students will be welcome to choose
-either to do some final project or do two final homeworks, or both
-(project + homeworks) for "extra credit".
+Final project is optional.  Students must complete all homeworks, and
+the final project provides "extra credit" benefits.
 
 For the final project, students have two possibilities: self-proposed
 or a suggested project.  For a self-proposed project:
