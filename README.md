@@ -193,8 +193,8 @@ depending on our progress and students' preferences
 |Th 5/14| 3:30-5:00 | Finishing up [Haxby 2001][ls-10b] | -	| PRJ
 |Th 5/21| 3:30-5:00 | [Debugging][ls-12a], Hands-on: [Slice-timing][ls-11b] | -	| -
 |T  5/26| 3:30-5:00 | PsychoPy [Stimuli][ls-13b] | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html)	| -
-|Th 5/28| 3:30-5:00 | PsychoPy Events/Responses | TBA	| PRJ/HW5
-|T  6/02| 3:30-5:00 | TBA | TBA	| -
+|Th 5/28| 3:30-5:00 | PsychoPy [Timing][ls-14b], [Events/Responses][ls-14c], [GUI][ls-14d] | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html)	| PRJ
+|T  6/02| 3:30-5:00 | PsychoPy Trials, Gluing-all-together | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html) | -
 
 
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
@@ -245,6 +245,10 @@ depending on our progress and students' preferences
 [ls-12a]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/12a-Logistics.ipynb
 
 [ls-13b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/13b-PsychoPy-Basics.ipynb
+
+[ls-14b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/14b-PsychoPy-TimingRehearsed.ipynb
+[ls-14c]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/14c-PsychoPy-Events.ipynb
+[ls-14d]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/14d-PsychoPy-GUI.ipynb
 
 ## Student Evaluation
 
@@ -324,6 +328,7 @@ compatible terms from
   by M.Brett largely copyright Matthew Brett 2015, licensed under the
   Creative Commons attribution 2.0 generic license (CC-by 2.0): see
   http://creativecommons.org/licenses/by/2.0/
-
+- [PsychoPy Course](http://github.com/lindeloev/psychopy-course) by
+  Jonas Lindeløv, licensed under [GPL v.2](https://github.com/lindeloev/psychopy-course/blob/master/LICENSE)
 
 [anatomy-of-matplotlib]: http://github.com/WeatherGod/AnatomyOfMatplotlib
