@@ -1,8 +1,9 @@
 # Introduction to Programming for Psychologists & Neuroscientists
 
-* **AKA:** PSYC161, call# 34529
+* **AKA:** PSYC161, call# ????
+* **When:** Winter 2019
 * **Instructor:** Yaroslav Halchenko, [class-psyc161@onerussian.com](mailto:class-psyc161@onerussian.com)
-* **Venue:** Moore Hall 453 (computer lab)
+* **Venue:** Moore Hall 453 (computer lab), Dartmouth College,  Hanover, NH, USA, Planet Earth
 * **Need help?**
    * [Google it up](http://google.com)
    * **Office Hours:** just [email me](mailto:class-psyc161@onerussian.com) to set time convenient for both of us
@@ -33,6 +34,9 @@ to advanced analysis pipelines).
 
 
 # HOWTOs
+
+**Sections below are still in the state of old course materials, and
+will soon be updated for the Winter 2019 course offering**
 
 ## Git
 
