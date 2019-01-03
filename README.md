@@ -3,7 +3,7 @@
 * **AKA:** PSYC161, call# ????
 * **When:** Winter 2019
 * **Instructor:** Yaroslav Halchenko, [class-psyc161@onerussian.com](mailto:class-psyc161@onerussian.com)
-* **Venue:** Moore Hall 453 (computer lab), Dartmouth College,  Hanover, NH, USA, Planet Earth
+* **Venue:** Moore Hall 453 (computer lab + TBA), Dartmouth College,  Hanover, NH, USA, Planet Earth
 * **Need help?**
    * [Google it up](http://google.com)
    * **Office Hours:** just [email me](mailto:class-psyc161@onerussian.com) to set time convenient for both of us
@@ -33,37 +33,6 @@ which would concentrate on in-depth learning of specific neuroimaging
 to advanced analysis pipelines).
 
 
-# HOWTOs
-
-**Sections below are still in the state of old course materials, and
-will soon be updated for the Winter 2019 course offering**
-
-## Git
-
-This is a git repository which contains only course materials.
-Homework assignment repositories were originally "linked" to this
-repository as [git submodules](http://git-scm.com/docs/git-submodule)
-but that was proven to be more distracting that useful.
-
-Therefore, for the peace of our minds, I now recommend to clone/work
-with homework repositories outside of this repository. Just go to the
-parent directory and checkout those repositories one by one.
-Alternatively, there is now a script which you can run in a terminal
-and it will clone for you all present homework repositories, and would
-not touch existing ones:
-
-     ./clone-homeworks
-
-
-## IPython notebooks
-
-To interact with lecture notebooks run following commands in the
-terminal
-
-    cd classes
-    ipython notebook
-
-
 # Resources
 
 ## Software
@@ -75,87 +44,113 @@ Moreover, with recent developments of stimuli delivery toolboxes
 (e.g., psychtoolbox-3, PsychoPy, OpenSesame) it became possible to
 provide a complete free and open toolbelt for carrying out research in
 this domain.  Therefore, in this course we will use/cover available
-FOSS tools (e.g., bash, [git](http://git-scm.com/)), programming
-languages ([Python](http://python.org)) and then overview computation
-environments (Matlab/Octave, R).
+FOSS tools (e.g., bash, [git](http://git-scm.com/) and may be developed
+in-house [DataLad](http://datalad.org)) to improve our skills not only
+in programming itself, but also to learn basics of code management, data
+structures and algorithms, and even some software engineering.
+[Python](http://python.org), version 3, will be our primary programming
+language.  Besides Python we might learn to compose little snippets in
+shell (bash).
+
+Python itself and all the tools we will use/learn are available for any major operating
+system (Linux, OS X, MS Windows).  If you are a Debian or Ubuntu user,
+you are encouraged to use a turnkey platform for neuroscience --
+[NeuroDebian](http://neuro.debian.net) -- where all
+aforementioned (and thousands of other) tools are conveniently
+available.  Otherwise, use of a `conda` distribution is highly recommended - please visit
+https://www.anaconda.com/download/ and download/install Anaconda
+(Python 3.7 version) for your OS which will provide you not only Python
+itself, but also access to thousand of other Python (and not only)
+software packages.
+[Conda cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+provides a quick overview of available commands to work with conda.
+
 To establish efficient hands-on sessions and code development in
 Python, we will use and recommend you to use in your research/coding
 practice:
 
-- [IPython notebooks](http://ipython.org/notebook.html) . Available
-  for all platforms.  Stock Debian/Ubuntu distributions:
-  `ipython-notebook` package
-- [PyCharm](https://www.jetbrains.com/pycharm) community edition.
-  NeuroDebian (-devel) provides now pycharm-community-sloppy
-  package
-
-Python, IPython, Octave, R etc are available for any major operating
-system (Linux, OS X, MS Windows).  But students are encouraged to use
-a turnkey platform for neuroscience --
-[NeuroDebian](http://neuro.debian.net) -- where all (but Matlab)
-aforementioned (and thousands of other) tools are conveniently
-available.  In the class we will use a prepared NeuroDebian VirtualBox
-appliance which has already necessary software pre-installed.  If you
-decide to use identical environment on your home laptop/desktop, just
-
-1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) on
-   your system
-2. Download
-   [appliance used in the class (1.5GB)](http://neuro.debian.net/_files/custom-vm/PSYC-161-nd1.ova)
-3. Import appliance in the VirtualBox, Run it
-
-4. provide necessary  customizations to your git-config
-5. (recommended) update list of available packages and upgrade
-   them all.  Open terminal and run
-
-        sudo apt-get update
-        sudo apt-get upgrade
-
-    Default password is `neurodebian`.
-
-6. (recommended) install flake8 checked for Python:
-
-        sudo apt-get install python-flake8
-
-    in case you want to use the same `code checker` as Travis CI for
-    you when you submit a pull request with your homework.
-
+- [git](https://git-scm.com) Is a [Version Control System](https://en.wikipedia.org/wiki/Version_control)
+  which we will (learn to) use. Debian/Ubuntu:
+  `sudo apt install git`. conda: `conda install git`.
+- [Jupyter notebooks](https://jupyter.org) which will be used for
+  interactive work with Python. Available
+  for all platforms.  Debian/Ubuntu:
+  `sudo apt install python3-notebook`.  conda: `conda install ipython-notebook`
+- [PyCharm](https://www.jetbrains.com/pycharm) community edition is a
+  very versatile [Integrated Development Environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment)
+  for Python.
+  For Debian/Ubuntu systems - [NeuroDebian](http://neuro.debian.net)
+  provides now `pycharm-community-sloppy` package you can install.
+  Otherwise, download from [the project's website](https://www.jetbrains.com/pycharm/download/)
 
 ## Data
 
 We might possibly use some publicly available dataset as an example
 for hands-on sessions. For your project(s), you are welcome to use any
-publicly available dataset.
+publicly available dataset.  Consider choosing datasets available
+through [DataLad](http://datalad.org)
+from [datasets.datalad.org](http://datasets.datalad.org).
 
 
 ## Format
 
 This course is planned as a graduate level seminar course for the
-Spring 2015 semester -- Apr 2nd to June 2nd -- so we will have roughly
-9 weeks.  Each week we will have either one 3h (2:00-5:00pm) or two
-1h:30m (3:30pm-5:00pm) classes, which would be a mix of small lectures
+Winter 2019 semester -- Jan 3rd to March 13th -- so we will have roughly
+11 weeks.  Each week we will have either one 3h or two
+1h:30m classes, which would be a mix of small lectures
 and practice sessions.  Practice sessions would include “pair
-programming” and “code review” sessions.  Homeworks will be submitted
-via Git (further instructions **TODO**).  Students will learn how to
+programming” and “code review” sessions.  Homeworks will consist of
+exercises in the "online textbook" be submitted
+via Git (further instructions TBA).  Students will learn how to
 use Git/GitHub and will be encouraged to contribute to existing free
 and open-source projects.
 
 ## Literature
 
-The two main sources for lesson materials are:
+The main sources for lesson materials are:
+
+- **FOPP-PBS**
+  Brad Miller, Paul Resnick, Lauren Murphy, Jeffrey Elkner,
+  Peter Wentworth, Allen B. Downey, Chris Meyers, and Dario Mitchell
+  [Foundations of Python Programming (PBS-WI19 edition)](https://runestone.academy/runestone/static/fopp-pbs-wi2019/index.html)
+  An interactive online textbook. Heavily based on **THP**
 
 - **THP**
-  Downey, A. (2012). [Think Python: How to think like a computer
-  scientist. Needham, MA: Green Tea Press](http://greenteapress.com/thinkpython/thinkpython.html)
+  Downey, A. (2015). [Think Python: How to think like a computer
+  scientist (2nd edition). Needham, MA: Green Tea Press](http://greenteapress.com/wp/think-python-2e/)
+  [PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+  [Amazon (dead-trees version)](https://www.amazon.com/gp/product/1491939362/)
+
+- **PS**
+  Miller, B.N. and Ranum, D.L. (2011)
+  [Problem Solving with Algorithms and Data Structures using Python (2nd edition)](http://www.freetechbooks.com/problem-solving-with-algorithms-and-data-structures-using-python-t1157.html)
+  [PDF](https://www.cs.auckland.ac.nz/courses/compsci105ssc/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
+  [Amazon (dead-trees version)](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
+
+We will start with **FOPP-PBS** and then pick up some sections from
+**PS**.  If you need an offline good-night-sleep read, get yourself a copy of **THP**
+
+
+### Additional resources
+
+- **PT**
+  [Python tutorial](https://docs.python.org/3/tutorial/) - formally
+  informal introduction to basic concepts and features of Python.
+  Includes cursory overview of "batteries included", i.e. of the Python
+  standard library - a rich collection of modules which come with any
+  Python installation
 
 - **PSL**
   Haenel, V., Gouillart, E., & Varoquaux, G. (Eds.) (2011). [Python
-  Scientific Lecture Notes](http://scipy-lectures.github.com/)
+  Scientific Lecture Notes](http://scipy-lectures.github.com/) -
+  a collection of tutorials for
 
-- **PT**
-  [Python tutorial](https://docs.python.org/2/tutorial/)
+- **SC**
+  [Software carpentry](https://software-carpentry.org/lessons/) - a
+  number of lessons on Python, intended to quickly bootstrap hacking in
+  Python using NumPy, pandas etc.
 
-Both books are available online (free and open), and you can fetch PDF
+All above are available online (free and open), and you can fetch PDF
 directly using git-annex (`git annex get books/`).
 
 In addition, we will make use of a number of other online resources,
@@ -167,36 +162,30 @@ packages that you will be learning to use.
 This is a preliminary plan, which can (and probably will) change
 depending on our progress and students' preferences
 
-- **Weeks 1-3**: Get to know the tools (environments, VCS, QA) and Python
-  language fundamentals (from variables to modules and classes)
+- **Weeks 1-5**: Get to know Python
+  language fundamentals (from variables to modules and classes).
+  **FOPP-PBS**. And become efficient with the tools (environments, VCS,
+  IDE, QA).
 
-- **Weeks 4-7**: Fundamentals of the scientific Python core (NumPy, SciPy, matplotlib) with applications to neuroimaging
+- **Weeks 6-8**: Introduction to the exciting Data Structures and
+  Algorithms (sorting, binary search, etc) **PS**
 
-- **Week 8-9**: Stimuli delivery with Python (PsychoPy)
-
+- **Weeks 9-end**: Fundamentals of the scientific Python core (NumPy,
+   SciPy, matplotlib, pandas) **PSL**
 
 ## Schedule
 
 
-| Date  | Times     | Lecture | Reading | HW 
-|:----- | --------- | ------- | ------- | ---
-|T  4/02| 2:00-5:00 | [Intro][ls-intro]/Python Concepts ([Variables,..][ls-01b],[Functions][ls-01c],[QA][ls-01d]) | THP(1-6), [PSL(1.2.1-1.2.5)][psl-01], [git bootcamp materials][git-bootcamp] | [HW1](https://github.com/dartmouth-pbs/psyc161-hw1)
-|T  4/07| 2:00-5:00 | [Rehearsal][ls-02a], Python Concepts ([Conditionals][ls-02b], [Loops][ls-02c], [Lists][ls-02d]) | THP(5-8,10), [PSL(1.2.1-1.2.5)][psl-01] | [HW2](https://github.com/dartmouth-pbs/psyc161-hw2)
-|T  4/14| 3:30-5:00 | [Rehearsal][ls-03a], Python Concepts ([Tuples][ls-03b], [Dicts][ls-03c], [Sets][ls-03d]) | THP(11, 12) | -
-|Th 4/16| 3:30-5:00 | [Rehearsal][ls-04a], Python Concepts ([Classes][ls-04b], [Modules][ls-04c]) | THP(15-18) | [HW3](https://github.com/dartmouth-pbs/psyc161-hw3)
-|T  4/21| 3:30-5:00 | [Rehearsal][ls-05a], Python Concepts ([Exceptions][ls-05b], [Context Handlers][ls-05c], [Generators][ls-05d]) | THP(14.5), [PSL(1.2.8)](http://scipy-lectures.github.io/intro/language/exceptions.html), PT([8](https://docs.python.org/2/tutorial/errors.html),[9.10](https://docs.python.org/2/tutorial/classes.html#generators))	| -
-|Th 4/23| 3:30-5:00 | [Rehearsal][ls-06a], [Numerical Python (Numpy)][ls-06b] | PSL([1.3.2](http://scipy-lectures.github.io/intro/numpy/array_object.html), [1.3.2](http://scipy-lectures.github.io/intro/numpy/operations.html)), [video][pycon15-numpyloops]	| -
-|T  4/28| 2:00-5:00 | [Rehearsal][ls-07a], [Numerical Python (Numpy, continued)][ls-07b], [Common data I/O][ls-07c] | PSL([1.3.2](http://scipy-lectures.github.io/intro/numpy/operations.html)) | -
-|Th 4/30| 3:30-5:00 | Visualizing the data (matplotlib [\#1][ls-08b], [\#2][ls-08c]) | [MPL](http://matplotlib.org), [AMPL][anatomy-of-matplotlib]	| [HW4](https://github.com/dartmouth-pbs/psyc161-hw4)
-|T  5/05| 2:00-5:00 | Hands-on: [Camera Man][ls-09b], [Arteries][ls-09c], [Convolution][ls-09d] | PSL([1.5](http://scipy-lectures.github.io/intro/scipy.html))	| -
-|Th 5/07| 3:30-5:00 | Hands-on: [Haxby 2001][ls-10b] | -	| -
-|Th 5/14| 3:30-5:00 | Finishing up [Haxby 2001][ls-10b] | -	| PRJ
-|Th 5/21| 3:30-5:00 | [Debugging][ls-12a], Hands-on: [Slice-timing][ls-11b] | -	| -
-|T  5/26| 3:30-5:00 | PsychoPy [Stimuli][ls-13b] | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html)	| -
-|Th 5/28| 3:30-5:00 | PsychoPy [Timing][ls-14b], [Events/Responses][ls-14c], [GUI][ls-14d] | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html)	| PRJ
-|T  6/02| 3:30-5:00 | PsychoPy Trials, Gluing-all-together | [PsychoPy Coder Manual](http://www.psychopy.org/coder/coder.html) | -
+| Date  | Times       | Lecture | Reading | HW
+|:----- | ----------- | ------- | ------- | ---
+|Th 1/03| 10:30-12:00 | [Intro][ls-intro]/[FOPP-PBS] (1) | [FOPP-PBS] (2-5) | [FOPP-PBS Assignment 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=4589)
+|T  1/15| 10:30-12:00 | [FOPP-PBS] (2-5(rehearse), 6) | [FOPP-PBS] (6) | TBA
+|Th 1/17| 10:30-12:00 | [FOPP-PBS] (6(rehearse), 7) | [FOPP-PBS] (7) | TBA
+|T  1/22| 10:30-12:00 | TBA | TBA | TBA
 
 
+
+[FOPP-PBS]: https://runestone.academy/runestone/static/fopp-pbs-wi2019/index.html
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
 [ls-intro]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb
 [ls-01b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01b-PythonFundamentals-Variables.ipynb
@@ -256,7 +245,8 @@ Students will be evaluated on the basis of:
 
 - Lesson exercises / class participation.
   Every week there will be a set of small exercises to be submitted
-  for the first class in the upcoming week
+  for the first class in the upcoming week. Initially they all should
+  be done within the interactive [FOPP-PBS] textbook.  You must be logged in!
 
 - Final project, given 3-4 final weeks to work on.
 
@@ -314,9 +304,10 @@ yourself without looking up there again.
 ## License/Attributions
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Share-Alike License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work and other related to the course materials under [https://github.com/dartmouth-pbs](https://github.com/dartmouth-pbs) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0 International License</a>.
+The textbooks materials are distributed under their own terms.
 
-Some portions are materials borrowed from other sources distributed under
-compatible terms from
+Some portions of the materials within this repository are borrowed from
+other sources distributed under compatible terms from
 
 - [Intro CS at NYC iSchool](http://github.com/NYCiSchoolCS/think-python)
   under CC Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
