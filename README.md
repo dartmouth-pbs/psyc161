@@ -4,6 +4,7 @@
 * **When:** Winter 2019
 * **Instructor:** Yaroslav Halchenko, [class-psyc161@onerussian.com](mailto:class-psyc161@onerussian.com)
 * **Venue:** Moore Hall 453 (computer lab + TBA), Dartmouth College,  Hanover, NH, USA, Planet Earth
+* **Times:** Tue 10:00-11:30, Thu 10:30-12:00
 * **Need help?**
    * [Google it up](http://google.com)
    * **Office Hours:** just [email me](mailto:class-psyc161@onerussian.com) to set time convenient for both of us
@@ -179,9 +180,9 @@ depending on our progress and students' preferences
 | Date  | Times       | Lecture | Reading | HW
 |:----- | ----------- | ------- | ------- | ---
 |Th 1/03| 10:30-12:00 | [Intro][ls-intro]/[FOPP-PBS] (1) | [FOPP-PBS] (2-5), [BPPfSC] | [FOPP-PBS Assignment 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=4589)
-|T  1/15| 10:30-12:00 | [FOPP-PBS] (2-5(rehearse), 6) | [FOPP-PBS] (6) | TBA
+|T  1/15| 10:00-11:30 | [FOPP-PBS] (2-5(rehearse), 6) | [FOPP-PBS] (6) | TBA
 |Th 1/17| 10:30-12:00 | [FOPP-PBS] (6(rehearse), 7) | [FOPP-PBS] (7) | TBA
-|T  1/22| 10:30-12:00 | TBA | TBA | TBA
+|T  1/22| 10:00-11:30 | TBA | TBA | TBA
 
 
 
