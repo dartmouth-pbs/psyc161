@@ -110,10 +110,14 @@ and open-source projects.
 
 The main sources for lesson materials are:
 
+**Note**: Local urls with `secretserver.dartmouth.edu` should be rewritten with
+`secretserver` replaced with the address to the secret server (not disclosed publically).
+Otherwise, original version(s) of the books could be found on [https://runestone.academy](https://runestone.academy) . 
+
 - **FOPP-PBS**
   Brad Miller, Paul Resnick, Lauren Murphy, Jeffrey Elkner,
   Peter Wentworth, Allen B. Downey, Chris Meyers, and Dario Mitchell
-  [Foundations of Python Programming (PBS-WI19 edition)](https://runestone.academy/runestone/static/fopp-pbs-wi2019/index.html)
+  [Foundations of Python Programming (PBS-WI19 edition)](http://secretserver.dartmouth.edu/runestone/static/fopp/index.html)
   An interactive online textbook. Heavily based on **THP**
 
 - **THP**
@@ -124,7 +128,7 @@ The main sources for lesson materials are:
 
 - **PS**
   Miller, B.N. and Ranum, D.L. (2011)
-  [Problem Solving with Algorithms and Data Structures using Python (2nd edition)](http://www.freetechbooks.com/problem-solving-with-algorithms-and-data-structures-using-python-t1157.html)
+  [Problem Solving with Algorithms and Data Structures using Python (2nd + PBS-WI19 edition)](http://secretserver.dartmouth.edu/runestone/static/pythonds/index.html)
   [PDF](https://www.cs.auckland.ac.nz/courses/compsci105ssc/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
   [Amazon (dead-trees version)](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
 
@@ -179,14 +183,14 @@ depending on our progress and students' preferences
 
 | Date  | Times       | Lecture | Reading | HW
 |:----- | ----------- | ------- | ------- | ---
-|Th 1/03| 10:30-12:00 | [Intro][ls-intro]/[FOPP-PBS] (1) | [FOPP-PBS] (2-5), [BPPfSC] | [FOPP-PBS Assignment 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=4589)
+|Th 1/03| 10:30-12:00 | [Intro][ls-intro]/[FOPP-PBS] (1) | [FOPP-PBS] (2-5), [BPPfSC] | [FOPP-PBS Assignment 1](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=1)
 |T  1/15| 10:00-11:30 | [FOPP-PBS] (2-5(rehearse), 6) | [FOPP-PBS] (6) | TBA
 |Th 1/17| 10:30-12:00 | [FOPP-PBS] (6(rehearse), 7) | [FOPP-PBS] (7) | TBA
 |T  1/22| 10:00-11:30 | TBA | TBA | TBA
 
 
 
-[FOPP-PBS]: https://runestone.academy/runestone/static/fopp-pbs-wi2019/index.html
+[FOPP-PBS]: http://secretserver.dartmouth.edu/runestone/static/fopp/index.html
 [BPPfSC]: http://dx.doi.org/10.1371/journal.pbio.1001745
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
 [ls-intro]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb
