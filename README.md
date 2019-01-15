@@ -184,8 +184,8 @@ depending on our progress and students' preferences
 | Date  | Times       | Lecture | Reading | HW
 |:----- | ----------- | ------- | ------- | ---
 |Th 1/03| 10:30-12:00 | [Intro][ls-intro]/[FOPP-PBS] (1) | [FOPP-PBS] (2-5), [BPPfSC] | [FOPP-PBS Assignment 1](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=1)
-|T  1/15| 10:00-11:30 | [FOPP-PBS] (2-5(rehearse), 6) | [FOPP-PBS] (6) | TBA
-|Th 1/17| 10:30-12:00 | [FOPP-PBS] (6(rehearse), 7) | [FOPP-PBS] (7) | TBA
+|T  1/15| 10:00-11:30 | [FOPP-PBS] (2-5(rehearse)), [PEP8](https://www.python.org/dev/peps/pep-0008/), [SHELL](http://www.reproducibleimaging.org/sfn2018-training/02-01-shell/) | [FOPP-PBS] (6) | [FOPP-PBS Assignment 2](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=4)
+|Th 1/17| 10:30-12:00 | [FOPP-PBS] (6(rehearse)), Stupid Content Trackers | [FOPP-PBS] (7) | TBA
 |T  1/22| 10:00-11:30 | TBA | TBA | TBA
 
 
