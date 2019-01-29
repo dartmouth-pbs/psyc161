@@ -188,7 +188,8 @@ depending on our progress and students' preferences
 |Th 1/17| 10:30-12:00 | [FOPP-PBS] (6(rehearse)), Stupid Content Trackers: [GIT1](http://www.reproducibleimaging.org/sfn2018-training/02-02-distros/#git), [GIT2](https://swcarpentry.github.io/git-novice/), [GIT CHEATSHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) | [FOPP-PBS] (7, 8) | [FOPP-PBS Assignment 3](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=6)
 |T  1/22| 10:00-11:30 | [FOPP-PBS] (7(rehearse)), Git rehearse, PyCharm | [FOPP-PBS] (14.{1,2,5,6}) | [FOPP-PBS Assignment 4](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=7)
 |Th 1/22| 10:30-12:00 | [FOPP-PBS] (8, 14.{1,2,5,6}(rehearse)), [HW-FACTORIAL](https://github.com/dartmouth-pbs/psyc161-hw-factorial) | [FOPP-PBS] (9) | [FOPP-PBS Assignment 5](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=8)
-|T 1/29| 10:00-11:30 | [FOPP-PBS] (9 (rehearse)), TBA | TBA | TBA
+|T 1/29| 10:00-11:30 | [FOPP-PBS] (7, 8 (no turtles) (rehearse)), [Monte Carlo PI](http://secretserver.dartmouth.edu/runestone/static/fopp/Files/monte_carlo_simulations.html#approximating-pi) | [FOPP-PBS] (10 - Files, no .16 or .17) | [FOPP-PBS Assignment 6](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=9)
+|Th 1/31| 10:30-12:00 | [FOPP-PBS] (9 (rehearse)), TBA | TBA | TBA
 
 
 
