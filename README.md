@@ -189,8 +189,9 @@ depending on our progress and students' preferences
 |T  1/22| 10:00-11:30 | [FOPP-PBS] (7(rehearse)), Git rehearse, PyCharm | [FOPP-PBS] (14.{1,2,5,6}) | [FOPP-PBS Assignment 4](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=7)
 |Th 1/22| 10:30-12:00 | [FOPP-PBS] (8, 14.{1,2,5,6}(rehearse)), [HW-FACTORIAL](https://github.com/dartmouth-pbs/psyc161-hw-factorial) | [FOPP-PBS] (9) | [FOPP-PBS Assignment 5](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=8)
 |T 1/29| 10:00-11:30 | [FOPP-PBS] (Antipatterns, 7, 8 (no turtles) (rehearse)), [Monte Carlo PI](http://secretserver.dartmouth.edu/runestone/static/fopp/Files/monte_carlo_simulations.html#approximating-pi) | [FOPP-PBS] (10 - Files, no .16 or .17) | [FOPP-PBS Assignment 6](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=9)
-|Th 1/31| 10:30-12:00 | [FOPP-PBS] (Review of some turtles and stats)), n-back balanced sequences mini-project | [FOPP-PBS] (11 - Dictionaries, SO Survey - very optional) | [FOPP-PBS Assignment 7](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=10)
-|T 2/05| 10:00-11:30 | TBA | TBA | TBA
+|Th 1/31| 10:30-12:00 | [FOPP-PBS] (Review of some turtles and stats), n-back balanced sequences mini-project | [FOPP-PBS] (11 - Dictionaries, SO Survey - very optional) | [FOPP-PBS Assignment 7](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=10)
+|T 2/05| 10:00-11:30 | [FOPP-PBS] (Review of solutions), more on n-back mini-proj | None (server maintenance) | Questionnaire
+|Th 2/07| 10:30-12:00 | [FOPP-PBS] (Reviews of materials/solutions) | [FOPP-PBS] (12 - Functions) | [FOPP-PBS Assignment 8](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=11)
 
 
 
