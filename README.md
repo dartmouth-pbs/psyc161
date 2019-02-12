@@ -192,7 +192,8 @@ depending on our progress and students' preferences
 |Th 1/31| 10:30-12:00 | [FOPP-PBS] (Review of some turtles and stats), n-back balanced sequences mini-project | [FOPP-PBS] (11 - Dictionaries, SO Survey - very optional) | [FOPP-PBS Assignment 7](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=10)
 |T 2/05| 10:00-11:30 | [FOPP-PBS] (Review of solutions), more on n-back mini-proj | None (server maintenance) | Questionnaire
 |Th 2/07| 10:30-12:00 | [FOPP-PBS] (Reviews of materials/solutions), [Sets](https://realpython.com/python-sets/), [HOWTO WHINE](http://www.repronim.org/module-reproducible-basics/05-misc/) | [FOPP-PBS] (12 - Functions) | [FOPP-PBS Assignment 8](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=11)
-
+|Tu 2/12| 10:00-11:30 | [FOPP-PBS] (Reviews of solutions for iterations/Images and Files) | None | [FOPP-PBS Assignment 9: Project](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=12)
+|Th 2/14| 10:30-12:00 | [FOPP-PBS] (Reviews of solutions for Dictionaries and Functions) | [FOPP-PBS] (13 - Tuple (un)packing, 14 - More Iterations) | [FOPP-PBS Assignment TBA](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=13)
 
 
 [FOPP-PBS]: http://secretserver.dartmouth.edu/runestone/static/fopp/index.html
