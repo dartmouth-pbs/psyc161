@@ -263,17 +263,27 @@ Students will be evaluated on the basis of:
 
 ## Final project
 
-Final project is optional.  Students must complete all homeworks, and
-the final project provides "extra credit" benefits.
+Students must complete all homeworks (which will be lighter as we get
+closer to the end), and show measurable progress toward the project
+goal -- project might be more ambitious than what could be
+accomplished within the time left. Accomplished work toward the
+project will be scored based on project's code/materials review and
+their reflection of principles learned in the class
 
-For the final project, students have two possibilities: self-proposed
-or a suggested project.  For a self-proposed project:
+- code should be well documented
+- code should be easy to read (largely PEP8 compliant), and free of
+  anti-patterns
+- functionality should be (unit)tested, integration with Continuous
+  Integration (CI) platforms will be a plus
 
-- It must be a new development (i.e. not something you did before this
-  course), although you can choose to improve upon your prior code
+Students have two possibilities: self-proposed or a suggested
+project. For a self-proposed project:
 
-- Ideally should be something **you** or someone would end up re-using
-  later on
+- It must be a new development or contribution (i.e. not something you
+  did before this course).
+
+- Ideally should be something you or someone would end up re-using
+  later on, so not a throw-away.
 
 - Contribution to an existing scientific projects is strongly
   encouraged (benefit from established QA, feedback, distribution
@@ -285,20 +295,24 @@ or a suggested project.  For a self-proposed project:
     - Stimuli/experiment
     - Data Analysis
     - Establishing/improving quality assurance (tests, etc) of an
-    existing scientific FOSS project
+      existing scientific FOSS project
+    - Contribution of a chapter to a free and open programming
+      textbook (like the [FOPP]), e.g. a missing (e.g., sets,
+      asserts/tests) or puzzle/exercise (e.g., 8 queens, balanced
+      sequences) section
 
-- Team work is encouraged (but contribution ratio will be assessed)
+- Team work is encouraged (but contribution ratio will be assessed,
+  `git log` and `git shortlog -sn` is handy for that)
 
-Suggested projects will be given in the class.  For any of those types
-of projects code must be documented (docstrings, code comments),
-follow style guidelines (flake8 run in .travis.yml), carry unit- and
-possibly doc-tests, and submitted via GitHub making Travis-CI happy.
 You are most welcome to use materials from previous homeworks, and
 even review and grab ideas (not cut/pasted code) from code of others.
-You can either clone blank
+You can either clone a blank
 [psyc161-prj](https://github.com/dartmouth-pbs/psyc161-prj) against
 which you would submit your solution in private, or create a new
-public git repository on github.
+public git repository on github.  For any of those projects you will
+need to provide me with a link to your project on GitHub: could be an
+existing or new repository, a pull request (or collection of them).
+
 
 ## Code of conduct
 
