@@ -327,6 +327,39 @@ stuck ad researched/found a complete solution online and saw/read it
 of the world -- close that page and try recreating that solution
 yourself without looking up there again.
 
+## Sexual Misconduct
+
+At Dartmouth, we value integrity, responsibility, and respect for the
+rights and interests of others, all central to our Principles of
+Community. We are dedicated to establishing and maintaining a safe and
+inclusive campus where all have equal access to the educational and
+employment opportunities Dartmouth offers. We strive to promote an
+environment of sexual respect, safety, and well-being. In its policies
+and standards, Dartmouth demonstrates unequivocally that sexual
+assault, gender-based harassment, domestic violence, dating violence,
+and stalking are not tolerated in our community.
+
+The [Sexual Respect Website](https://sexual-respect.dartmouth.edu) at
+Dartmouth provides a wealth of information on your rights with regard
+to sexual respect and resources that are available to all in our
+community.
+
+Please note that, as a faculty member, I am obligated to share
+disclosures regarding conduct under Title IX with Dartmouth's Title IX
+Coordinator. Confidential resources are also available, and include
+licensed medical or counseling professionals (e.g., a licensed
+psychologist), staff members of organizations recognized as rape
+crisis centers under state law (such as WISE), and ordained clergy
+(see
+https://sexual-respect.dartmouth.edu/reporting-support/all-resources/confidential-resources).
+
+Should you have any questions, please feel free to contact Dartmouth’s
+Title IX Coordinator or the Deputy Title IX Coordinator for the
+Guarini School. Their contact information can be found on the sexual
+respect website at:
+https://sexual-respect.dartmouth.edu/reporting-support/all-resources/campus-resources
+
+
 ## License/Attributions
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Share-Alike License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work and other related to the course materials under [https://github.com/dartmouth-pbs](https://github.com/dartmouth-pbs) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0 International License</a>.
