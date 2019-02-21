@@ -193,9 +193,10 @@ depending on our progress and students' preferences
 |T 2/05| 10:00-11:30 | [FOPP-PBS] (Review of solutions), more on n-back mini-proj | None (server maintenance) | Questionnaire
 |Th 2/07| 10:30-12:00 | [FOPP-PBS] (Reviews of materials/solutions), [Sets](https://realpython.com/python-sets/), [HOWTO WHINE](http://www.repronim.org/module-reproducible-basics/05-misc/) | [FOPP-PBS] (12 - Functions) | [FOPP-PBS Assignment 8](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=11)
 |Tu 2/12| 10:00-11:30 | [FOPP-PBS] (Reviews of solutions for iterations/Images and Files) | None | [FOPP-PBS Assignment 9: Project](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=12)
-|Th 2/14| 10:30-12:00 | [FOPP-PBS] (Reviews of solutions for Dictionaries) | [FOPP-PBS] (13 - Tuple (un)packing, 14 - More Iterations) | [FOPP-PBS Assignment TBA](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=13)
-|Tu 2/19| 10:00-11:30 | [FOPP-PBS] (Reviews of solutions for Dictionaries (Roman)/Functions), [Shablona] | [Shablona], [Student Pack](https://education.github.com/pack) | [FOPP-PBS Assignment 10: Use Shablona for your project](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=15)
-|Th 2/21| 10:30-12:00 | [FOPP-PBS] (Reviews of Tuple (un)packing etc) | TBA | TBA
+|Th 2/14| 10:30-12:00 | [FOPP-PBS] (Reviews of solutions for Dictionaries) | [FOPP-PBS] (13 - Tuple (un)packing, 14 - More Iterations) | [FOPP-PBS Assignment](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=13)
+|Tu 2/19| 10:00-11:30 | [FOPP-PBS] (Reviews of solutions for Dictionaries (Roman)/Functions), [Shablona] | [Shablona], [Student Pack](https://education.github.com/pack) | [FOPP-PBS Assignment 11: Building programs/Use Shablona for your project](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=15)
+|Th 2/21| 10:30-12:00 | [FOPP-PBS] (Reviews of Tuple (un)packing etc), Jupyter notebook, Numerical Python (Numpy) [ls-06b], [ls-07b] | [FOPP-PBS] (15 - Advanced Functions) | [FOPP-PBS Assignment 12: Advanced Functions, Project Progress Report ](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=16)
+|Tu 2/26| 10:00-11:30 | [FOPP-PBS] (Reviews ...), [FOPP-PBS] (23. More on accumulation/Comprehensinos) | TBA | TBA
 
 [FOPP-PBS]: http://secretserver.dartmouth.edu/runestone/static/fopp/index.html
 [Shablona]: https://github.com/uwescience/shablona
