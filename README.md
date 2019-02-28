@@ -196,8 +196,8 @@ depending on our progress and students' preferences
 |Th 2/14| 10:30-12:00 | [FOPP-PBS] (Reviews of solutions for Dictionaries) | [FOPP-PBS] (13. Tuple (un)packing, 14. More Iterations) | [FOPP-PBS Assignment](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=13)
 |Tu 2/19| 10:00-11:30 | [FOPP-PBS] (Reviews of solutions for Dictionaries (Roman)/Functions), [Shablona] | [Shablona], [Student Pack](https://education.github.com/pack) | [FOPP-PBS Assignment 11: Building programs/Use Shablona for your project](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=15)
 |Th 2/21| 10:30-12:00 | [FOPP-PBS] (Reviews of Tuple (un)packing etc), Jupyter notebook, Numerical Python (Numpy) [ls-06b] | [FOPP-PBS] (15. Advanced Functions) | [FOPP-PBS Assignment 12: Advanced Functions, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=16)
-|Tu 2/26| 10:00-11:30 | Numerical Python (Numpy) [ls-07b], Reviews of Project/GitHub/...,  [FOPP-PBS] (23. More on accumulation/Comprehensions) | [FOPP-PBS] (16. Sorting) | [FOPP-PBS Assignment 13: Sorting](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=17)
-|Th 2/28| 10:30-12:00 | Reviews of Adv. Functions, Project etc, [FOPP-PBS] (19. Exceptions)| [FOPP-PBS] (20. Defining your own Classes) | [FOPP-PBS Assignment 14: Classes, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=18)
+|Tu 2/26| 10:00-11:30 | Numerical Python (Numpy) [ls-07b], Reviews of Project/GitHub/... | [FOPP-PBS] (16. Sorting) | [FOPP-PBS Assignment 13: Sorting](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=17)
+|Th 2/28| 10:30-12:00 | Reviews of Adv. Functions/Keyword args ([THKWA]), Project etc, [FOPP-PBS] (23. More on accumulation/Comprehensions), [FOPP-PBS] (19. Exceptions)| [FOPP-PBS] (20. Defining your own Classes) | [FOPP-PBS Assignment 14: Classes, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=18)
 |Tu 3/05| 10:00-11:30 | Reviews of Sorting, Project/GitHub/...,  [FOPP-PBS] (17. Nested Data and Nested Iteration) | [FOPP-PBS] (22. Inheritance) | [FOPP-PBS Assignment 15: Inheritance, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=19)
 |Th 3/07| 10:30-12:00 | TBD (scipy/pandas/matplotlib/seaborn/datalad/pybids/pytest/...?) | - | Project
 |Tu 3/12| 10:00-11:30 | TBD (...?)| - | Project
@@ -206,6 +206,7 @@ depending on our progress and students' preferences
 [FOPP-PBS]: http://secretserver.dartmouth.edu/runestone/static/fopp/index.html
 [Shablona]: https://github.com/uwescience/shablona
 [BPPfSC]: http://dx.doi.org/10.1371/journal.pbio.1001745
+[THKWA]: https://treyhunner.com/2018/04/keyword-arguments-in-python/
 [git-bootcamp]: http://nbviewer.ipython.org/github/dartmouth-pbs/reprosw/blob/master/Version%20Control.ipynb "Git bootcamp"
 [ls-intro]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01a-Introduction.ipynb
 [ls-01b]: http://nbviewer.ipython.org/github/dartmouth-pbs/psyc161/blob/master/classes/01b-PythonFundamentals-Variables.ipynb
