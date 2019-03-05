@@ -198,9 +198,9 @@ depending on our progress and students' preferences
 |Th 2/21| 10:30-12:00 | [FOPP-PBS] (Reviews of Tuple (un)packing etc), Jupyter notebook, Numerical Python (Numpy) [ls-06b] | [FOPP-PBS] (15. Advanced Functions) | [FOPP-PBS Assignment 12: Advanced Functions, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=16)
 |Tu 2/26| 10:00-11:30 | Numerical Python (Numpy) [ls-07b], Reviews of Project/GitHub/... | [FOPP-PBS] (16. Sorting) | [FOPP-PBS Assignment 13: Sorting](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=17)
 |Th 2/28| 10:30-12:00 | Reviews of Adv. Functions/Keyword args ([THKWA]), Project etc, [FOPP-PBS] (23. More on accumulation/Comprehensions), [FOPP-PBS] (19. Exceptions)| [FOPP-PBS] (20. Defining your own Classes) | [FOPP-PBS Assignment 14: Classes, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=18)
-|Tu 3/05| 10:00-11:30 | Reviews of Sorting, Project/GitHub/...,  [FOPP-PBS] (17. Nested Data and Nested Iteration) | [FOPP-PBS] (22. Inheritance) | [FOPP-PBS Assignment 15: Inheritance, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=19)
-|Th 3/07| 10:30-12:00 | TBD (scipy/pandas/matplotlib/seaborn/datalad/pybids/pytest/...?) | - | Project
-|Tu 3/12| 10:00-11:30 | TBD (...?)| - | Project
+|Tu 3/05| 10:00-11:30 | Reviews of Sorting, Project/GitHub/...,  [FOPP-PBS] (17. Nested Data and Nested Iteration) | [FOPP-PBS] (22. Inheritance) | [Project "Final" Progress Report (due end of Sun 10th)](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=19)
+|Th 3/07| 10:30-12:00 | Some review of Classes, TBD (more numpy/scipy?) | - | -
+|Tu 3/12| 10:00-11:30 | TBD (pandas?)| - | -
 
 
 [FOPP-PBS]: http://secretserver.dartmouth.edu/runestone/static/fopp/index.html
