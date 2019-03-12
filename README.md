@@ -200,7 +200,7 @@ depending on our progress and students' preferences
 |Th 2/28| 10:30-12:00 | Reviews of Adv. Functions/Keyword args ([THKWA]), Project etc, [FOPP-PBS] (23. More on accumulation/Comprehensions), [FOPP-PBS] (19. Exceptions)| [FOPP-PBS] (20. Defining your own Classes) | [FOPP-PBS Assignment 14: Classes, Project Progress](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=18)
 |Tu 3/05| 10:00-11:30 | Reviews of Sorting, Project/GitHub/...,  [FOPP-PBS] (17. Nested Data and Nested Iteration) | [FOPP-PBS] (22. Inheritance) | [Project "Final" Progress Report (due end of Sun 10th)](http://secretserver.dartmouth.edu/runestone/assignments/doAssignment?assignment_id=19)
 |Th 3/07| 10:30-12:00 | Some review of Classes, TBD (more numpy/scipy?) | - | -
-|Tu 3/12| 10:00-11:30 | TBD (pandas?)| - | -
+|Tu 3/12| 10:00-11:30 | pandas [Getting Started](http://pandas.pydata.org/pandas-docs/stable/getting_started/index.html), [Day 2 of Python Bootcamp for Neuroscientists](https://laderast.github.io/2018/01/17/what-we-learned-teaching-python-to-neuroscience-students/) | - | -
 
 
 [FOPP-PBS]: http://secretserver.dartmouth.edu/runestone/static/fopp/index.html
